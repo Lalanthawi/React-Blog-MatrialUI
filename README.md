@@ -1,1 +1,1 @@
-Built with NextJs
+Built with reactjs
